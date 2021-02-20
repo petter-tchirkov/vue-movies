@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <router-link to="/">
-      <h1><span>Vue</span>Movies</h1>
+      <h1><span>23</span>cm</h1>
     </router-link>
   </header>
   <main class="main">
