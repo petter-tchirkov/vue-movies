@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="feature">
-      <router-link to="/movie/tt0409591">
+      <!-- <router-link to="/movie/tt0409591">
         <div class="feature-card">
           <img
             src="http://avatars.mds.yandex.net/get-kinopoisk-image/1704946/e63beb56-0433-4bbf-ae70-5d85a5ed8945/600x900"
@@ -20,7 +20,7 @@
             </p>
           </div>
         </div>
-      </router-link>
+      </router-link> -->
     </div>
     <form @submit.prevent="SearchMovies()" class="search-box">
       <input
